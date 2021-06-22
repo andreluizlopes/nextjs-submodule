@@ -8,6 +8,7 @@ try {
 
 function main () {
   theme()
+
   console.log('main')
 }
 
